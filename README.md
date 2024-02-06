@@ -21,3 +21,9 @@ Future Game Developer
 <a href="https://instagram.com/chrispetrov_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrispetrov_06" height="30" width="40" /></a>
 <a href="https://discord.gg/krisnat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="krisnat" height="30" width="40" /></a>
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krisnat102&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krisnat102&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###

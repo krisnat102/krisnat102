@@ -6,7 +6,7 @@ Future Game Developer
 
 * 🌍  I'm based in Stara Zagora, Bulgaria
 * ✉️  You can contact me at [chrispetrov96@gmail.com](mailto:chrispetrov96@gmail.com)
-* 🧠  I'm learning Unity, C#, Java and Web Development
+* 🧠  I'm learning Unity, C#, JavaScript and Web Development
 
 ### Skills
 
